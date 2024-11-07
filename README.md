@@ -2,17 +2,17 @@
 ![logo](https://github.com/prasad1266/Portfolio/blob/main/Linkedln%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Prasad Hodgar</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate JAVA developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad1266&label=Profile%20views&color=0e75b6&style=flat" alt="prasad1266" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad1266" alt="prasad1266" /></a> </p>
 
-- 🔭 I’m currently working on [Fintech-Secure Bank](https://github.com/prasad1266/Fintech-Secure-Bank)
+- 🔭 I’m currently working on [Online Shopping Cart](https://github.com/prasad1266/Online-Shopping-Cart-Frontend.git)
 
-- 🌱 I’m currently learning **Java, .Net And DSA**
+- 🌱 I’m currently learning **KAFKA Streams, gRPC And AWS Cloud**
 
-- 💬 Ask me about **React, Java, .Net**
+- 💬 Ask me about **Java, Apache kafka**
 
 - 📫 How to reach me **prasadh1266@gmail.com**
 
